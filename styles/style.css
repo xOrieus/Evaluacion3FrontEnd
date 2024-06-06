@@ -1,0 +1,31 @@
+/* fondo */
+body {
+	background-color: #a1c4fd;
+	margin: 100px;
+}
+
+h1 {
+    text-align: center;
+    color:aliceblue
+}
+
+/* fuentes */
+.container {
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	padding: 50px;
+	background-color: rgb(63, 63, 63);
+    color: aliceblue;
+}
+
+/* texto principal */
+main {
+	padding: 50px;
+	background-color: #393e46;
+	color: rgb(223, 223, 223);
+	font-size: 12px;
+}
+
+form {
+	text-align: left;
+	font-size: 20px;
+}
